@@ -1,0 +1,34 @@
+- name: New Vision Media
+  url: https://beta.newvisionmedia.store
+  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+  status: in progress
+  tags:
+    - TypeScript
+    - React
+    - GraphQL
+    - Java
+    - Spring (Boot)
+    - Lambda
+    - AWS
+
+- name: Equippr
+  url: https://equippr.charliesay.xyz
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: in progress
+  tags:
+    - TypeScript
+    - React
+    - GraphQL
+    - MongoDB
+    - Lambda
+    - AWS
+
+- name: AutoTrader TPF Platform static pages
+  url: https://www.autotrader.co.uk/farm/finance
+  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+  status: live
+  tags:
+    - React
+    - Typescript
+    - GraphQL
+

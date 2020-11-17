@@ -1,0 +1,34 @@
+- profile:
+  initials: CS
+  name: Charlie Say
+  email: charliewsay@gmail.com
+  profession: Java Developer (& full-stack)
+  image: images/profile.jpg
+  location: Manchester UK
+  relocation: false
+  company: AutoTrader UK
+  for_hire: false
+  focus: Building Equippr
+  focus_url: '//equippr.charliesay.xyz'
+  about: |
+    A back end developer with 3 years of experience in building real-world, large scale
+    microservices at the UK’s leading car marketplace by making significant contributions to
+    API’s.
+  skills:
+    - Java
+    - Spring (boot)
+    - TypeScript
+    - GraphQL
+    - Python
+    - Javascript
+    - CSS & SCSS
+  tools:
+    - React
+    - Gatsby
+    - IntelliJ
+    - VSCode
+  budget:
+    currency: £
+    min: 5
+    max: 30
+    default: 10

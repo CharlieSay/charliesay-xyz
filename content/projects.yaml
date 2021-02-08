@@ -1,7 +1,19 @@
+- name: Equippr
+  url: https://equippr.charliesay.xyz
+  description: A platform dedicated to showing aspiring influencers what gear & software current high level influencers use.
+  status: in progress
+  tags:
+    - TypeScript
+    - React
+    - GraphQL
+    - Apollo
+    - MongoDB
+    - AWS
+
 - name: New Vision Media
   url: https://beta.newvisionmedia.store
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
-  status: in progress
+  description: An on-hold e-commerce website built for the UK Church to equip them with necessary media and content for their church services both online and in person.
+  status: on hold
   tags:
     - TypeScript
     - React
@@ -11,24 +23,11 @@
     - Lambda
     - AWS
 
-- name: Equippr
-  url: https://equippr.charliesay.xyz
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
-  status: in progress
-  tags:
-    - TypeScript
-    - React
-    - GraphQL
-    - MongoDB
-    - Lambda
-    - AWS
-
 - name: AutoTrader TPF Platform static pages
   url: https://www.autotrader.co.uk/farm/finance
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+  description: Full-Stack rework of legacy pages that were moved onto an SPA Microservice architecture
   status: live
   tags:
     - React
     - Typescript
     - GraphQL
-

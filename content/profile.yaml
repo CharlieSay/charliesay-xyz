@@ -11,12 +11,11 @@
   focus: Building Equippr
   focus_url: '//equippr.charliesay.xyz'
   about: |
-    A back end developer with 3 years of experience in building real-world, large scale
-    microservices at the UK’s leading car marketplace by making significant contributions to
-    API’s.
+    A back end developer with 3 1/2 years of experience in helping building real-world, large scale
+    microservices at various industry leading companies in the UK.
   skills:
     - Java
-    - Spring (boot)
+    - Spring Framework
     - TypeScript
     - GraphQL
     - Python

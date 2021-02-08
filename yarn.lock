@@ -2047,10 +2047,10 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
-"@wkocjan/gatsby-theme-intro@^1.0.14":
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/@wkocjan/gatsby-theme-intro/-/gatsby-theme-intro-1.0.14.tgz#ae2c8e9cb7202285a9088be1fe2eadeffa1233df"
-  integrity sha512-CI1ASRoFYYz7FojQI/lkYDYZv5ZVnYOF50xHCiaqWdVeNDarBErd+tgTLm4joPESqiP1P3JcfI2OVrAPnHUr7g==
+"@wkocjan/gatsby-theme-intro@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@wkocjan/gatsby-theme-intro/-/gatsby-theme-intro-1.1.0.tgz#55cc6fbb64140f23d7e04220e68bb9cd3ba67296"
+  integrity sha512-gwsuuOi6e7Deb5FdwYXxUwVhPV56Os2kVN/f0psxNIhh8sT/JPR9G7s9KzW2jQ7zg5OZSzbKpIhBRoOjZ3vMxA==
   dependencies:
     autoprefixer "^9.7.6"
     color "^3.1.2"

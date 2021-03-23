@@ -6,10 +6,10 @@
   image: images/profile.jpg
   location: Manchester UK
   relocation: false
-  company: AutoTrader UK
+  company: MoneySuperMarket Group
   for_hire: false
-  focus: Building Equippr
-  focus_url: '//equippr.charliesay.xyz'
+  focus: Building An Exciting new project.
+  focus_url: '//charliesay.xyz'
   about: |
     A back end developer with 3 1/2 years of experience in helping building real-world, large scale
     microservices at various industry leading companies in the UK.
@@ -28,6 +28,6 @@
     - VSCode
   budget:
     currency: £
-    min: 5
-    max: 30
-    default: 10
+    min: 0
+    max: 0
+    default: 0
